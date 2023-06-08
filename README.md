@@ -11,7 +11,6 @@ This notebook presents the realization and evaluation of an adversarial attack s
 - [Usage](#usage)
 - [Results](#results)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -56,9 +55,3 @@ The results and findings will be discussed within the notebook itself.
 ## Contributing
 
 Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-Feel free to customize this `README.md` file to suit your specific notebook and project structure.
