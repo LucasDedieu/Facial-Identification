@@ -1,5 +1,3 @@
-Certainly! Here's an example of what the `README.md` file for your notebook on facial identification with TensorFlow could look like:
-
 # Facial Identification with TensorFlow
 
 This notebook presents the realization and evaluation of an adversarial attack system in the field of facial identification. The goal is to train a facial identification model, compare its results with a pre-trained model, and then perform an adversarial attack using the projected gradient descent (PGD) attack. The performance of the models will be compared before and after the attack.
